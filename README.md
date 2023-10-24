@@ -1,2 +1,2 @@
-# clustering_customer_profiles
+# clustering-customer-profiles
 Clustering to create typical store customer profiles
